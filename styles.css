@@ -1,5 +1,11 @@
 header {
     border-bottom: 2px solid black;
+    color: crimson;
+}
+
+
+p {
+  background-color: red; 
 }
 
 p {
